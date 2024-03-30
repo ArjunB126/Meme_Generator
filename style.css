@@ -29,3 +29,7 @@
     background: purple;
     letter-spacing: 3px;
 }
+
+.meme-generator .meme-author{
+    margin: 8px;
+}
